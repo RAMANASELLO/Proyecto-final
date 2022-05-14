@@ -455,8 +455,13 @@ h2{
 
 /* apartado nosotros*/
 
+
+
 .titulo-nosotros{
     padding-bottom:$titulo;
+    h1{
+        text-align: center;
+    }
 }
 
 .parrafo-nosotros{
